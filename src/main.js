@@ -7,4 +7,4 @@ if (answer == correct){
     console.log("You are correct! It is Jefferson City")
 } else{
     console.log("You are incorrect")
-}
+};
